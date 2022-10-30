@@ -1,5 +1,6 @@
 # avd
 avd autoscale with managed identity and disk conversion 
+WVDAutoScaleRunbookARMBased.ps1
 
 assumptions:
 managed identity enabled on automation account and set on subscription with rbac of contributor
